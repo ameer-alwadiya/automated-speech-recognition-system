@@ -17,15 +17,6 @@ This repository contains a Jupyter Notebook for an Automated Speech Recognition 
     - **Grid Search Optimization**: Using GridSearchCV to find the best hyperparameters.
     - **Bayesian Optimization**: Using Tree-structured Parzen Estimator (TPE) for hyperparameter tuning.
 
-### Installation
-
-Install the necessary packages using pip:
-
-```bash
-pip install tensorflow numpy matplotlib scikeras scikit-learn hyperopt
-```
-**Run the Notebook**: Execute the cells in the notebook to preprocess the data, build and train the model, and perform optimization.
-
 ## Brief Description of the Notebook
 
 ### 1. Preprocessing
